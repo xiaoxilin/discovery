@@ -11,6 +11,6 @@ public class DiscoveryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DiscoveryApplication.class, args);
 
-		System.out.println();//dfdsf
+		System.out.println();//dfdsf的范德萨发的的说法都是发的
 	}
 }
